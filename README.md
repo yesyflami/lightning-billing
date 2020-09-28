@@ -1,4 +1,4 @@
-# morney-3
+# 闪电记账
 
 ## Project setup
 ```

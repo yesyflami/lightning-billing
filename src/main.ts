@@ -26,7 +26,7 @@ window.onload = function () {
     }, 0);
 };
 
-document.ontouchmove = function () {
+document.ontouchmove = function (e) {
     e.preventDefault();
 };
 if (document.documentElement.clientWidth > 500) {
